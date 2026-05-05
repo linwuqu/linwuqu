@@ -1,7 +1,7 @@
 <img width="100%" src="./header.svg" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&color=5B7E3C&center=true&vCenter=true&width=700&duration=4200&pause=1000&lines=HELLO!+Caicailin+HERE.+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&color=5B7E3C&center=true&vCenter=true&width=700&duration=6000&pause=8000&lines=HELLO!+lincaicai+HERE.+%F0%9F%91%8B" />
 </p>
 
 <p align="right">
@@ -30,13 +30,11 @@
 <p align="right">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
 <p align="right">
-  <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,vue,flutter&perline=5" />
 </p>
 
 
