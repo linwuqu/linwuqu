@@ -1,17 +1,3 @@
-<svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#c8e6c9"/>
-      <stop offset="50%" style="stop-color:#4dd0e1"/>
-      <stop offset="100%" style="stop-color:#3949ab"/>
-    </linearGradient>
-  </defs>
-  <polygon points="0,0 480,0 240,120" fill="url(#g)" opacity="0.7"/>
-  <polygon points="480,0 960,0 720,120" fill="url(#g)" opacity="0.85"/>
-  <polygon points="960,0 1440,0 1200,120" fill="url(#g)" opacity="0.7"/>
-  <polygon points="0,0 240,120 0,120" fill="#b2dfdb" opacity="0.6"/>
-  <polygon points="1440,0 1440,120 1200,120" fill="#283593" opacity="0.6"/>
-</svg>
 <img width="100%" src="./header.svg" />
 
 <h1 align="center">HELLO! Caicailin HERE. 👋</h1>
@@ -28,11 +14,38 @@
 
 ---
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=linwuqu&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ### 🛠️ Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,bash,react,vue,html,css,tailwind,nodejs,fastapi,androidstudio,kotlin,git,github,docker,linux,vscode&perline=6" />
 </p>
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=linwuqu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=linwuqu&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linwuqu/linwuqu/output/github-contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linwuqu/linwuqu/output/github-contribution-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/linwuqu/linwuqu/output/github-contribution-snake.svg" />
+</picture>
 
 ---
 
